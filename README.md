@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # This is the  simple responcive site react with tailwind
-# live sie link:
+# live sie link:https://lustrous-caramel-2399ee.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
