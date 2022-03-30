@@ -11,7 +11,7 @@ const PricingOptions = (props) => {
         Price:{price}
         <small>/month</small>
       </h1>
-      <p>
+      <h1>
         <small>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ut
@@ -20,7 +20,7 @@ const PricingOptions = (props) => {
             iusto placeat provident!
           </p>
         </small>
-      </p>
+      </h1>
 
       <div>
         <h1 className="text-left">Benefites:</h1>
