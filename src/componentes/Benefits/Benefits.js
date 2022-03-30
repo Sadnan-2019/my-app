@@ -7,10 +7,12 @@ const Benefits = (props) => {
           // console.log(props.benefit)
           return (
                     <div>
-                         <p className="flex items-center">
+            <div>
+            <h1 className="flex items-center">
           <CheckCircleIcon className="h-4 w-4 mr-2  text-green-600"></CheckCircleIcon>
           {props.benefit}
-          </p>      
+          </h1>   
+            </div>
                     </div>
           );
 };
